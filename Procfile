@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* Dahchour_Bouarfa.tp3rest.heroku.Main
